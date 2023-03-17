@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MsAsiat, a graduate of Computer Science and currently pursuig my Master degree in Computer sccence
+- 👋 Hi, I’m @MsAsiat, a graduate of Computer Science and currently pursuig a Master degree in Computer Science
 - 👀 I’m interested in Web design and development
 - 🌱 I’m currently working on improving my programming skills - Phython, HTML, JavaScript, R, SQL etc.
 - 💞️ I’m looking to collaborate on App creation
