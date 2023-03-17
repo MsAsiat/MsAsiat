@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MsAsiat, a graduate of Computer Science and currently pursuig my Master degree in Computer sccence
-- 👀 I’m interested in Coding
-- 🌱 I’m currently trying to improve my programming skills in Phython, HTML, JavaScript etc.
+- 👀 I’m interested in Web design and development
+- 🌱 I’m currently working on improving my programming skills - Phython, HTML, JavaScript, R, SQL etc.
 - 💞️ I’m looking to collaborate on App creation
 
 
