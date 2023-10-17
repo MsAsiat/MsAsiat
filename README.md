@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MsAsiat, a high school computer science teacher with Master degree from the University of Sunderland
 - 👀 I’m interested in software Engineering, Web design and development
-- 🌱 Added are a programming projects.
+- 🌱 Added are some of my programming projects during my MSc studies.
 - 🌱 I’m currently working on improving my programming skills - Phython, HTML, JavaScript, Rstudio, PostgreSQL etc.
 - 💞️ I’m looking to collaborate on App creation
