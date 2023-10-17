@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MsAsiat, a graduate of Computer Science and currently pursuig a Master degree in Computer Science
+- 👋 Hi, I’m @MsAsiat, a high school computer science teacher with Master degree from the University of Sunderland
 - 👀 I’m interested in software Engineering, Web design and development
-- 🌱 Added are a few of my MSc assignments.
+- 🌱 Added are a programming projects.
 - 🌱 I’m currently working on improving my programming skills - Phython, HTML, JavaScript, Rstudio, PostgreSQL etc.
 - 💞️ I’m looking to collaborate on App creation
